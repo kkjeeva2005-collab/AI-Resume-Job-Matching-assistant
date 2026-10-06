@@ -1,0 +1,6 @@
+EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
+LLM_MODEL = "Qwen/Qwen2.5-0.5B-Instruct"
+
+CHUNK_SIZE = 350
+CHUNK_OVERLAP = 50
+TOP_K = 3
